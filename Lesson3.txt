@@ -1,0 +1,13 @@
+Цель: ознакомление с синтаксисом джава
+Прочитать:
+1. https://docs.oracle.com/javase/tutorial/java/nutsandbolts/op2.html
+2. https://docs.oracle.com/javase/tutorial/java/nutsandbolts/flow.html
+
+Задание:
+Написать пример всех циклов, ветвлений и т.п. что встречено в разделе
+for (with break and continue)
+while
+do while
+if then else
+switch
+ternary operator (if-then-else shorten)
